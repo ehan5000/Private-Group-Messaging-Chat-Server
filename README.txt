@@ -1,5 +1,5 @@
 Ehan Hassan
-101287309
+This project was done for an assignment in Comp 2406.
 
 Install Instructions:
 
